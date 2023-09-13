@@ -1,0 +1,3851 @@
+{
+  "indexes": {
+    "FM": 296,
+    "FAV": 18,
+    "AM": 12
+  },
+  "FM": [
+    {
+      "sid": 0,
+      "uuid": "ac75540e-b7e1-4ba8-b4b3-4142a181b3c7",
+      "name": "-",
+      "freq": 8770,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8770
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "3bd5e746-4d5b-444c-aaac-751b4ec8d54a",
+      "name": "100%NL",
+      "freq": 9910,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        8780,
+        8820,
+        8830,
+        8900,
+        8950,
+        8960,
+        9000,
+        9020,
+        9050,
+        9190,
+        9200,
+        9210,
+        9380,
+        9420,
+        9490,
+        9500,
+        9760,
+        9910,
+        10440,
+        10460
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "bed0b7a5-7582-40d2-b9ab-ff156ae748c9",
+      "name": "1Twente Enschede",
+      "freq": 10510,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10510
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "e31c1ba8-6fe0-4213-b5f5-79c3818799c2",
+      "name": "247Spice",
+      "freq": 9010,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9010
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "29d61139-88c7-474a-9bec-eee73df94eb3",
+      "name": "527",
+      "freq": 10520,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10520
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "b48d288b-bcb8-45bd-b106-141b781650d2",
+      "name": "[Kavel B39]",
+      "freq": 8770,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8770
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "c2c4c3bd-f942-489d-bbd3-2fd994beda46",
+      "name": "[Kavel B40]",
+      "freq": 8980,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8980
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "96f440ff-e5a1-4e04-bc6c-1cb9179cc6b8",
+      "name": "[Kavel B41]",
+      "freq": 9000,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9000
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "bb92f83d-175c-4cae-8d20-7ec28ad2549a",
+      "name": "[Kavel B43",
+      "freq": 9190,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9190
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "86de0481-c792-49de-a1ea-01c8cfc98fcf",
+      "name": "[Kavel B44]",
+      "freq": 9350,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9350
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "1b282c05-629d-4f68-ac15-8fdf8b89e14c",
+      "name": "[Kavel B45]",
+      "freq": 8780,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8780
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "24c2af53-3229-4d73-a806-62c4ef264dfb",
+      "name": "[Kavel B53]",
+      "freq": 9200,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9200
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "863a1573-2dab-49ee-8b31-e8ee948dbba1",
+      "name": "[lokale omroep]",
+      "freq": 9520,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9520
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "7a5381ee-9d38-4323-b429-8cffdcae7500",
+      "name": "A1 Radio",
+      "freq": 9350,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9350,
+        10680
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "bb7d3d0a-e892-4724-974b-d39fc53d83e2",
+      "name": "AAFM",
+      "freq": 10610,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10610
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "e10f97dc-f312-42e9-bc1c-191e49d8cc52",
+      "name": "Accent FM",
+      "freq": 10500,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10500,
+        10710
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "7cec0cb1-8a6a-4dc4-9d52-863d0cd62c2b",
+      "name": "Achterhoek FM",
+      "freq": 10490,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10490,
+        10670,
+        10790
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "14d717b8-a9f6-4f7e-b2af-4f6158341e08",
+      "name": "AFN Benelux",
+      "freq": 9690,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9690,
+        9970
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "7a8582dc-59eb-475c-9067-b77060cea08a",
+      "name": "Aladna FM",
+      "freq": 10720,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10720
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "3df38940-9af9-4c56-a75e-c0c972f01a4e",
+      "name": "Albrandswaard FM",
+      "freq": 10710,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10710
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "add5a9e1-bb12-4a57-9e64-842ab054c256",
+      "name": "Alkmaar Centraal",
+      "freq": 10530,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10530
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "6de19cc4-2a25-446e-b135-df94c14c14a9",
+      "name": "Amor FM",
+      "freq": 8980,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8980,
+        10230
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "61d4aa56-3e94-47b2-9116-a9a4dc70563d",
+      "name": "ATOS Radio",
+      "freq": 10610,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10610,
+        10680
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "a693908d-9465-487a-a9ac-904c675df21e",
+      "name": "AVULO FM / Power 1054",
+      "freq": 10540,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10540
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "a6bc578a-b526-4b33-9e05-e860997f9bbd",
+      "name": "B-FM",
+      "freq": 10610,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10610
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "7c16776f-1a4b-4e1b-a71b-531074d97a0d",
+      "name": "Baarn FM",
+      "freq": 10550,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10550
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "c96ee9c2-e9bf-4435-81e5-c0363940c80b",
+      "name": "Beat FM",
+      "freq": 10630,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10630
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "959165ec-1c5b-4752-b5d0-4e7f6e1e2620",
+      "name": "BFBS Radio",
+      "freq": 9020,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9020
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2c3be46c-60a0-403a-8df9-0ef687a7fd82",
+      "name": "Bie Os",
+      "freq": 10730,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10730
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "cbe29b00-9a9f-4367-8991-369d6f966d9f",
+      "name": "Bingo FM",
+      "freq": 10570,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10570,
+        10770
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "f8405d0c-d1a9-435c-95e7-27e6e22300cf",
+      "name": "BNR Nieuwsradio",
+      "freq": 8860,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        8860,
+        8960,
+        9120,
+        9130,
+        9150,
+        9530,
+        9540,
+        9550,
+        9980,
+        9990,
+        10010,
+        10020,
+        10180
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "a5fad132-beed-44eb-87d1-791e7b36319b",
+      "name": "Bo Radio",
+      "freq": 10530,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10530
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "7db54a75-0cc2-4909-a665-dd57612e3313",
+      "name": "Borne FM",
+      "freq": 10540,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10540
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "41e7a647-b6a2-401b-918d-d17ae929138a",
+      "name": "BredaNu",
+      "freq": 10730,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10730
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "608a5b68-52af-48c0-8591-3e30ca59776c",
+      "name": "Caribbean FM (SALTO)",
+      "freq": 10790,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10790
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "e1c5d006-7769-459e-96e8-05d9c201462d",
+      "name": "Castricum 105",
+      "freq": 10500,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10500
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "da11bf34-9278-4fd5-8bd4-4564dfc20d5c",
+      "name": "Coastline FM",
+      "freq": 9600,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9600
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "808c4b2f-6128-4802-bb76-916b50162243",
+      "name": "Compleet FM",
+      "freq": 10720,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10720
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "7ad42c33-bf5c-4d5d-8907-ecb09cccaeb5",
+      "name": "De Stille Genieter",
+      "freq": 8780,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8780
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "b886fd74-c634-4100-8ad3-6e2ea6be6873",
+      "name": "De Streekradio",
+      "freq": 10480,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10480
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "ab2e0247-a5ef-4d40-9958-b3119eafa6d8",
+      "name": "Delta FM",
+      "freq": 10530,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10530
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "986034b0-7478-42d9-8706-bb3eda0f4b31",
+      "name": "Deltapiraat",
+      "freq": 10770,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10770
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2b0434a9-f19a-42b2-b3f9-0dbf150e30bf",
+      "name": "Den Haag FM",
+      "freq": 9200,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9200
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "d9f8396c-287c-4360-a3a3-e532e159104c",
+      "name": "Deventer Radio",
+      "freq": 10730,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10730
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "bee5ba04-7cd5-459b-a056-b17899689139",
+      "name": "DMG Radio",
+      "freq": 10620,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10620
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "a02ef6ee-74fa-4af9-a7bf-00fc2ba973c8",
+      "name": "DNO",
+      "freq": 10750,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10750
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2a4cfe83-5c49-4955-b8b4-8d6d706caa94",
+      "name": "DNO Radio",
+      "freq": 10660,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10660
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "461ccfe0-5d8c-4d3b-b622-7b6a085d6c42",
+      "name": "Drechtstad FM",
+      "freq": 9570,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9570
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "c922355c-d54c-493b-9719-c5df4c076c83",
+      "name": "Ede FM",
+      "freq": 10730,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10730
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "148ff7f7-dcc2-4f92-9b47-c64db2f8036e",
+      "name": "EEn FM",
+      "freq": 10730,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10730
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "ee802ed2-d857-4e72-ab45-cb317fa69acd",
+      "name": "EVA",
+      "freq": 8920,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8920,
+        10520
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "a24f40b3-0b92-4950-b5fa-f5283f178f2e",
+      "name": "Extra FM",
+      "freq": 10720,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10720
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "de6bf622-341e-4666-85a7-6b5ae1d1e935",
+      "name": "Exxact FM",
+      "freq": 10640,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10640
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "eb5df145-9721-4f24-9599-029640b57c5b",
+      "name": "Falcon Radio",
+      "freq": 9430,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9430
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "93f5e05e-bfe7-477e-83a1-c96053b04887",
+      "name": "Favoriet FM",
+      "freq": 9400,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9400,
+        10490
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "55580000-267a-44e1-ab17-8a254c13d198",
+      "name": "Feel Good Radio",
+      "freq": 10560,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10560,
+        10590,
+        10760
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "70566c8c-7b9a-47fb-92ab-bec82e92dc41",
+      "name": "Frysk FM",
+      "freq": 9730,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        9730,
+        10180
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "592b5b8b-8e41-4c98-bb7a-1645b445a276",
+      "name": "Gelre FM",
+      "freq": 10530,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10530,
+        10570,
+        10610,
+        10640,
+        10710,
+        10750
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "e9c5222a-cdf7-411b-a8bc-2f97ad191c47",
+      "name": "GL8",
+      "freq": 10620,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10620
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "42c40b44-b20d-42e4-92bf-732a6b6e66fd",
+      "name": "Glow FM",
+      "freq": 9400,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9400
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "dd60f17d-3be2-4bfe-b0ed-08ff407b04dd",
+      "name": "GO-FM",
+      "freq": 10580,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10580,
+        10610,
+        10780
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "4a966684-b2c0-4f24-9d43-4f67853209f6",
+      "name": "Gouwestad Radio",
+      "freq": 10620,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10620
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "0572a2eb-63b2-4c0d-916a-7aeca3e22e6d",
+      "name": "Haarlem 105 Radio",
+      "freq": 8990,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8990
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "8f7eddb0-88ef-4eaa-badf-c827803f30a3",
+      "name": "Havenstad FM",
+      "freq": 10540,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10540
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "8fa22e43-1ed9-4542-941d-9b5e6ab2e42a",
+      "name": "Heemskerk FM",
+      "freq": 10740,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10740
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "6e8d3b7c-2b28-4cf7-92f3-2830bd0fc20a",
+      "name": "Heerhugowaard A Life",
+      "freq": 10670,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10670
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "c8b8d56e-09d3-4fe6-9dd7-709f09c62d83",
+      "name": "Hofstreek FM",
+      "freq": 10700,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10700,
+        10760
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "dbf3152d-5aa0-4e52-9688-e6d438858b65",
+      "name": "HOi FM",
+      "freq": 10660,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10660
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "fc810b5e-da66-4eda-82ed-64fe0a888b7c",
+      "name": "Houten FM",
+      "freq": 10730,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10730
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "ee272879-045f-4d9a-b11a-8179801654d5",
+      "name": "HTR Radio",
+      "freq": 10570,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10570
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "eadc9836-c234-464d-a2e7-f83a297cea02",
+      "name": "Jamm FM",
+      "freq": 10490,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10490
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "d9a9aea1-8980-49ab-a580-fca4c437f833",
+      "name": "JOE",
+      "freq": 10380,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        8760,
+        8770,
+        8780,
+        8810,
+        10360,
+        10380,
+        10390,
+        10400,
+        10410
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "092329c0-3612-4a19-b0aa-57cc94d78743",
+      "name": "Joy Radio",
+      "freq": 9870,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        8760,
+        9850,
+        9870,
+        9890
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "033142b3-c0b9-4564-84d6-6fa3d19d09a3",
+      "name": "Kempen FM",
+      "freq": 9720,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9720,
+        10570,
+        10610
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "f97028c6-a907-46a2-b403-58282fb59240",
+      "name": "Kerkradio Apeldoorn",
+      "freq": 8760,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8760
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "32888e4c-0bbf-4db3-b04f-8c32fe39d0f7",
+      "name": "Klokradio",
+      "freq": 9210,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9210,
+        9730,
+        10700
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "1c506667-146d-4169-aa71-657d2742e405",
+      "name": "Koekstad Radio",
+      "freq": 9440,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9440
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "0e58532d-c133-4bbf-980e-b687b4737553",
+      "name": "L-FM",
+      "freq": 9160,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9160,
+        10500,
+        10660
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "d86da01b-b8f6-4aeb-955e-3cc7bb1edbc3",
+      "name": "L.O.S. Radio",
+      "freq": 10560,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10560
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2562bc9a-0949-4b4f-89ca-c23c971e0052",
+      "name": "L1 Radio",
+      "freq": 9530,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9530,
+        10030
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "d84ed202-2231-4b4e-9bbf-0c9274ee9f32",
+      "name": "Langstraat FM",
+      "freq": 10680,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10680
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "1c68320e-5346-4c79-8ca9-75aed1bfa083",
+      "name": "Langstraat NL",
+      "freq": 10720,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10720
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "263b0df8-ccbf-4504-a3c8-5c764ecde89e",
+      "name": "Lansingerland FM",
+      "freq": 9220,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9220
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "d9ac3293-5cfb-444e-89c7-2fd6faf531d6",
+      "name": "LEO FM",
+      "freq": 10530,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10530,
+        10610
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "da558f07-8b21-47c1-ad45-41e0f186e102",
+      "name": "Leuk.fm",
+      "freq": 10690,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10690,
+        10600
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "517abc9f-e045-4d3b-8744-4eb286048724",
+      "name": "Linq FM",
+      "freq": 10510,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10510,
+        10690
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "9c04b3cb-e92d-4012-aadb-b2ae46f06208",
+      "name": "LOCO FM",
+      "freq": 10720,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10720,
+        10760
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "fb7e2172-37ae-4411-a762-20f1087623a5",
+      "name": "LOE FM",
+      "freq": 10550,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10550
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "e3428096-bd1c-42e9-98b9-3d3d0fc437ca",
+      "name": "LOG Radio",
+      "freq": 10560,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10560
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "75a9894d-26b1-468f-9cfd-1c07ec61504a",
+      "name": "LOK Radio",
+      "freq": 10600,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10600
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "f1d5ce97-d8e5-42e4-9d73-1a7b06b16e8c",
+      "name": "Lokaal 7",
+      "freq": 10740,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10740
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "f079719e-e26a-460f-90e7-1f28530fa6a1",
+      "name": "Lokale Omroep Ameland",
+      "freq": 8940,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8940
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "d35057cd-5240-4f0a-98eb-c3a9181e982a",
+      "name": "LOL Radio",
+      "freq": 10570,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10570
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "9fea4c5e-204f-4a12-a3a9-cdf52b081041",
+      "name": "LOM Radio",
+      "freq": 10730,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10730
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "3c2624f2-11d4-4538-91a4-b7f9a054e006",
+      "name": "LOS Radio",
+      "freq": 10750,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10750,
+        10780
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "b5376041-82c7-459e-99f5-1d5e20760c41",
+      "name": "LOVE Radio",
+      "freq": 10660,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10660
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "67a81d80-7bb7-436a-8909-89e6ae098796",
+      "name": "LOZ",
+      "freq": 10640,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10640
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "35b231d3-7e12-44c9-8422-de8945b67c79",
+      "name": "Maasland Radio",
+      "freq": 8960,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8960,
+        9290,
+        10770
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "8a9e50eb-724f-480e-8ae7-c0436620bee2",
+      "name": "Maastricht FM",
+      "freq": 10750,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10750
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "88d75caf-7089-4b83-a23b-f8512c981193",
+      "name": "Meer FM",
+      "freq": 10680,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10680
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "d7a7ad47-a2fe-4bcc-8ff2-e661edc3db8a",
+      "name": "Meer Radio",
+      "freq": 10550,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10550,
+        10660
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "7ecfb37d-771e-4021-8bb1-7624df2e010e",
+      "name": "Merweradio",
+      "freq": 10540,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10540
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "a4549683-6d53-4213-b2d4-f2218f4b70ad",
+      "name": "MFM",
+      "freq": 10520,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10520,
+        10560,
+        10600,
+        10760,
+        10790
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "01e42a20-4a66-46f3-9895-826aac93c4d7",
+      "name": "Midland FM",
+      "freq": 10560,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10560,
+        10630,
+        10750
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "c91f6b92-3c6c-4456-a75c-8c86e343e1b8",
+      "name": "Midland FM / STILOK Radio",
+      "freq": 10490,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10490
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "ec932064-1d2d-41c1-817a-437fd057c7ed",
+      "name": "Midvliet FM",
+      "freq": 10720,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10720,
+        10790
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "055bb63c-ddf9-4d5e-97f3-93db6e6bc920",
+      "name": "ML5 Radio",
+      "freq": 10570,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10570,
+        10610,
+        10740
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "daae16ae-e86e-4f31-bb1f-54329b4ae362",
+      "name": "NH Gooi",
+      "freq": 9200,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9200,
+        10510,
+        10620
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "be526560-77bd-4915-b29a-c0fa8bb2cb1d",
+      "name": "NH Radio",
+      "freq": 8870,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8870,
+        8890,
+        9390
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "57565e7d-18d1-4839-9976-57b62933533a",
+      "name": "Noordkop Radio",
+      "freq": 10660,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10660
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "0861e20e-eaf5-4956-8d79-05dd2b773c93",
+      "name": "NOOS FM",
+      "freq": 10720,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10720
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "f50cc848-7e43-4634-ba35-82fe2326a917",
+      "name": "NPO 3FM",
+      "freq": 8860,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        8860,
+        8990,
+        9090,
+        9620,
+        9650,
+        9680,
+        9710,
+        9980,
+        10390
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "e6e0b083-355a-47b4-809c-ca22db7d1a1e",
+      "name": "NPO FunX",
+      "freq": 9180,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9180,
+        9610,
+        9840
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "a0ad1dc2-773c-4142-b672-2d1795851c42",
+      "name": "NPO Radio 1",
+      "freq": 9180,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        9180,
+        9500,
+        9840,
+        9890,
+        10440,
+        10480,
+        10530
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "fc7cc487-25d3-4968-8485-993c333d023a",
+      "name": "NPO Radio 2",
+      "freq": 8800,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        8800,
+        8820,
+        9230,
+        9260,
+        9290,
+        9340,
+        9720,
+        9780,
+        10460,
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "e690f566-5683-430a-89b6-cf4352cd88ad",
+      "name": "NPO Radio 4",
+      "freq": 8760,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9140,
+        9430,
+        9450,
+        9470,
+        9480,
+        9500,
+        9820,
+        9870,
+        10160
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "f7523101-fc56-4092-a742-d58bb4a6a45a",
+      "name": "Odrie",
+      "freq": 10690,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10690
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "03300bbe-7192-402b-b924-ef2746c2427a",
+      "name": "OKE FM",
+      "freq": 10530,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10530,
+        10640,
+        10490
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "140b90d0-0718-4f68-bf98-1ff6795cd79f",
+      "name": "Omroep Berg en Dal",
+      "freq": 9060,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9060,
+        10510,
+        10710
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "dbb6d507-8987-43d1-8c42-ef1b241871c1",
+      "name": "Omroep Best",
+      "freq": 10620,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10620
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "88508c44-47b7-47ea-9d98-36bf0049f0f1",
+      "name": "Omroep Brabant",
+      "freq": 8760,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8760,
+        9100,
+        9190,
+        9580
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "405c267f-91e4-426f-8dd0-d5a03501bd41",
+      "name": "Omroep Centraal",
+      "freq": 9110,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9110
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "4016e008-20ed-4986-bf23-7ad5e821ca9f",
+      "name": "Omroep Drimmelen",
+      "freq": 10690,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10690
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "e2bf88c4-98f3-47fb-a731-e7a1da6da92b",
+      "name": "Omroep Helmond",
+      "freq": 10720,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10720
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "de08e64b-0322-4b9d-96d7-420fa4ca8611",
+      "name": "Omroep Land van Cuijk",
+      "freq": 9350,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9350,
+        9400,
+        10590
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "ef8c9bcf-1d16-4358-ae8d-06d456241794",
+      "name": "Omroep Maas en Mergelland",
+      "freq": 10720,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10720
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "6fe01f8a-6bfb-4ba8-869b-9ec562e886d5",
+      "name": "Omroep P\u0026M",
+      "freq": 9250,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9250
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "36ab62c4-8ea5-4521-aab2-13fd7b49e1ce",
+      "name": "Omroep Stein",
+      "freq": 9620,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9620
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "ab548daf-9e00-4c0c-a4f0-26a5b137b09b",
+      "name": "Omroep Tholen",
+      "freq": 10650,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10650
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "74161fd9-f8f2-462f-a3da-24780e38959f",
+      "name": "Omroep Tilburg",
+      "freq": 10760,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10760
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "d286bfec-642d-45dd-b653-6492ae64ad99",
+      "name": "Omroep Venlo",
+      "freq": 9690,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9690
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "4b8f3c9c-2cb1-4609-96ea-308887cce903",
+      "name": "Omroep Venray",
+      "freq": 9020,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9020
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "33dd1b4a-797b-4c3d-9704-69aa3a4af249",
+      "name": "Omroep Vlaardingen",
+      "freq": 10780,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10780
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "b927b06d-5ecd-44c1-a362-eb8c7601bb47",
+      "name": "Omroep Zeeland",
+      "freq": 8790,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8790,
+        9840
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "ae27355e-d58a-4f8b-b24f-140155736d9e",
+      "name": "Omroep Zuidplas",
+      "freq": 10690,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10690,
+        10730
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2945acb3-ddbd-444e-a36c-7f1a3b1bd7aa",
+      "name": "Omrop Fryslân",
+      "freq": 9220,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        9220,
+        9250
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2334e6e2-8fc4-43cb-956c-f3becc9b51b8",
+      "name": "Ons West Brabant",
+      "freq": 10570,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10570,
+        10630,
+        10670,
+        10680,
+        10760
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "cc0cf5c3-4873-4187-b070-31209f6e47a8",
+      "name": "OOG Radio",
+      "freq": 10660,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10660,
+        10700
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "fd3ffd3e-6259-4cb9-ba82-eb95c54b6462",
+      "name": "Optimaal FM",
+      "freq": 9470,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9470,
+        10550,
+        10560,
+        10620,
+        10630
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "c900f780-a812-4ade-b1fc-55b551baafcc",
+      "name": "ORTS Radio",
+      "freq": 10620,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10620
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "b4d9f355-a207-4b46-9c64-478bdc9c1e7c",
+      "name": "OSU Radio",
+      "freq": 10600,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10600
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "03d0a0f6-625a-49b7-8066-b419fba53f71",
+      "name": "Papendrecht FM",
+      "freq": 10500,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10500
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "14bfbb15-afb4-432f-b0fc-8850c57afd22",
+      "name": "Puur NL Midden Brabant",
+      "freq": 10430,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10430
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "de42598c-da17-43c9-9ad0-56c8b0d5764d",
+      "name": "Puur NL West Brabant",
+      "freq": 9730,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9730
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "3ea3602f-3c9e-40ea-89a2-7e2cb49bcbde",
+      "name": "Qmusic",
+      "freq": 10040,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        10030,
+        10040,
+        10050,
+        10070,
+        10090,
+        10100
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "81778a51-8fd5-41e6-b924-b4809cbad343",
+      "name": "Qmusic Limburg",
+      "freq": 9610,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9610,
+        9760,
+        9770,
+        9810,
+        9850
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "36bfcb05-9811-4043-ad1d-abe942e4b674",
+      "name": "Radio 10",
+      "freq": 10320,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        8910,
+        9160,
+        9400,
+        9550,
+        9630,
+        9660,
+        9710,
+        9770,
+        9780,
+        10280,
+        10290,
+        10300,
+        10310,
+        10320,
+        10330,
+        10340,
+        10350
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "f674d4ae-a0f3-4915-9c94-26d9884451f6",
+      "name": "Radio 10 Brabant",
+      "freq": 8880,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8880,
+        8890,
+        8920,
+        8930,
+        9390,
+        9520,
+        9550,
+        9740,
+        10360
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "6dc6068d-0e98-4e76-abcf-255360606290",
+      "name": "Radio 3 5 0",
+      "freq": 10520,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10520
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2d1fffb0-a799-426c-a5c2-19fc89789cf8",
+      "name": "Radio 350",
+      "freq": 9230,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9230
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "16bbfe54-c8ed-45bf-97ac-888d85e6f443",
+      "name": "Radio 538",
+      "freq": 10250,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        9840,
+        10190,
+        10210,
+        10220,
+        10230,
+        10240,
+        10250,
+        10260,
+        10270
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2aa1c82b-2892-41ab-b162-cf09e032522e",
+      "name": "Radio 794",
+      "freq": 10650,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10650,
+        10780
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "66a4bc55-f074-4344-8ec9-86d9a4782670",
+      "name": "Radio 80",
+      "freq": 10590,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10590
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "035f4379-1db5-47bd-9eb0-8389681a5d16",
+      "name": "Radio 8FM",
+      "freq": 9530,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9530
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "13097814-0c0e-4c64-a88b-6a04e92a9fc9",
+      "name": "Radio 9",
+      "freq": 10640,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10640
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "d64e4ded-d3bb-4273-8095-a09d51b93eb5",
+      "name": "Radio 90FM",
+      "freq": 9170,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9170
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "c41068c6-07a9-4159-b621-19292a20098b",
+      "name": "Radio A-FM",
+      "freq": 10710,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10710,
+        10780
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "e4d76558-12f5-42db-bf10-c4cda6460818",
+      "name": "Radio Aa en Hunze",
+      "freq": 10560,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10560
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "b9df4112-2148-48dd-b911-d3eb7199ea77",
+      "name": "Radio Aalsmeer",
+      "freq": 10590,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10590
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "448df6dd-b02b-4775-968c-13a158e5cecb",
+      "name": "Radio Apeldoorn",
+      "freq": 10550,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10550,
+        10630,
+        10710
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "723d8471-cfb0-40ee-bf90-5ec0eab759ee",
+      "name": "Radio Assen",
+      "freq": 10780,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10780
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "51aa41b2-3f0f-419b-9853-4f748c5e3a85",
+      "name": "Radio Beverwijk",
+      "freq": 10540,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10540
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "b72d69f8-7fd5-45ee-89da-1cfd72a518b9",
+      "name": "Radio Bodegraven",
+      "freq": 10780,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10780
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "028c3d37-9df6-48f6-bb18-b9656cbe9b5b",
+      "name": "Radio Capelle",
+      "freq": 10530,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10530
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "7c6292fd-3c60-4a65-a426-5542bf910fff",
+      "name": "Radio Centraal",
+      "freq": 10500,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10500,
+        10740
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "4a8bd3f0-9c31-4627-b21f-d48ae5458fdb",
+      "name": "Radio Compagnie",
+      "freq": 10520,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10520
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "1aac8b3b-f5e0-4bb2-98f0-a66c8af91a69",
+      "name": "Radio Continu",
+      "freq": 8990,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8990,
+        9230,
+        9240,
+        9260,
+        9270,
+        9430,
+        9570,
+        9820,
+        9950
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "d17d9b11-29dc-471b-986b-a3f042fe34c6",
+      "name": "Radio Continu Drenthe",
+      "freq": 10470,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10470
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "7f498251-7157-44c2-8cd0-36c37c18917a",
+      "name": "Radio Continu Friesland",
+      "freq": 9770,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9770,
+        9790
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "0f66d7ec-0bc6-42f8-87f4-a80dd3c9c2d2",
+      "name": "Radio Continu Groningen",
+      "freq": 9600,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9600
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "3a40ff5b-57ea-4e8a-8515-9e3ce9939dcf",
+      "name": "Radio Continu Ov./Gelderland",
+      "freq": 9800,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9800,
+        10190
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "00c60677-6746-4939-86aa-edee060002fa",
+      "name": "Radio Decibel",
+      "freq": 9830,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9830,
+        9940,
+        9960
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "a718e99b-917a-4709-a0c7-5661af38599f",
+      "name": "Radio Drenthe",
+      "freq": 9080,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9080,
+        9930
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "514ab210-0438-4831-adfd-46c2dd3a03a2",
+      "name": "Radio Eemland",
+      "freq": 9540,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9540
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "001a14ec-b5d0-4f16-8c95-8559ab4d1a14",
+      "name": "Radio Eenhoorn",
+      "freq": 10750,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10750
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "79613181-e099-4704-9d81-5a1a3d659575",
+      "name": "Radio Flevoland",
+      "freq": 8980,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8980
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "6f2ba187-8d74-406d-86a9-617fe5af92a8",
+      "name": "Radio Gelderland",
+      "freq": 8890,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8890,
+        8910,
+        9040,
+        9960,
+        10350
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "e3d857c1-269f-4b9f-9fd5-9d5d8fe9adc1",
+      "name": "Radio Hattem",
+      "freq": 10610,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10610
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "fc493823-7fd9-4145-ad34-46bf8e275ef1",
+      "name": "Radio Hengelo",
+      "freq": 10580,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10580
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "bda9c953-ef10-44d0-84f4-b07bcfdb4f13",
+      "name": "Radio Hoeksche Waard",
+      "freq": 9600,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9600,
+        10550
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "174e855e-27b1-4d09-8ab8-f3319afb4ce6",
+      "name": "Radio Hoogeveen",
+      "freq": 10680,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10680
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "c066f274-5164-46fa-863e-b4984071bfbc",
+      "name": "Radio Horizon",
+      "freq": 9290,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9290,
+        10600,
+        10710
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "4b3f61f8-e264-4dda-beb5-a40ebabfe9cf",
+      "name": "Radio Ideaal",
+      "freq": 9950,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9950,
+        10510,
+        10540,
+        10580,
+        10650,
+        10770
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "0d01133e-e675-4f89-b718-0031fa6ba6f2",
+      "name": "Radio JND",
+      "freq": 9320,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9320,
+        9360
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "c64ddfdd-6cda-461e-b59c-3e3529d4c7f4",
+      "name": "Radio Kontakt",
+      "freq": 10680,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10680
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "fb76de59-a8cc-434d-abde-86a156f2b294",
+      "name": "Radio Lelystad",
+      "freq": 9030,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9030
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "ad248edc-724b-42e3-a595-9adf33b83f41",
+      "name": "Radio M Utrecht",
+      "freq": 9310,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9310,
+        9790
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "c247d85a-becd-485a-8300-7e2fb4a7461d",
+      "name": "Radio Maas en Mergelland",
+      "freq": 10580,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10580,
+        10790
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "f23effa0-e2d5-4a5c-9686-46c98b6fca1a",
+      "name": "Radio Noord",
+      "freq": 9750,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9750
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "ac89debf-9af0-4f83-a8bf-60abf4bec333",
+      "name": "Radio Noordoost-Friesland",
+      "freq": 10580,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10580,
+        10700
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "1f803e72-bf55-40a2-b3a2-ed4a842af65e",
+      "name": "Radio Nunspeet",
+      "freq": 10590,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10590
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "f5d43ce9-1f40-40ce-8f67-37905929833f",
+      "name": "Radio Oost",
+      "freq": 8940,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8940,
+        9560,
+        9790,
+        9940
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "4b2d4104-4336-4591-bad6-9a6413967898",
+      "name": "Radio Parkstad",
+      "freq": 10570,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10570,
+        10700
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "af1efcc4-1f79-4877-8759-a7183dfc4a11",
+      "name": "Radio Purmerend",
+      "freq": 10490,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10490
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2a51f384-4e4a-440d-9177-d70058c47018",
+      "name": "Radio Reindonk",
+      "freq": 10560,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10560,
+        10710
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "d2a4514c-6a87-48b6-afd5-aef93d4a0c7a",
+      "name": "Radio Ridderkerk",
+      "freq": 10570,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10570
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "275c3da5-f132-4bbc-9675-f903438799c8",
+      "name": "Radio Rijnmond",
+      "freq": 9340,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9340
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "c7a43ee0-a21a-419d-adb7-dd20d7d5683f",
+      "name": "Radio Royaal",
+      "freq": 9730,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9730,
+        9760,
+        9800
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "7d98b466-4847-445b-a2f7-6cf6955d038f",
+      "name": "Radio S\u0026B",
+      "freq": 10750,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10750
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "1d9c8a7b-fb96-4b93-aee2-40edfe0d81a7",
+      "name": "Radio Schiedam",
+      "freq": 9580,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9580
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "aeb7b9db-dcdb-4003-824e-3b764d262901",
+      "name": "Radio Schouwen-Duiveland",
+      "freq": 10710,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10710,
+        10780
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "b3b804ff-fdae-4b42-b6ed-b4b82c216a03",
+      "name": "Radio Soest",
+      "freq": 10590,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10590
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "6a030076-9466-4c41-a9fb-4b2de19c2a33",
+      "name": "Radio Spannenburg",
+      "freq": 9640,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9640
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "b58a4a0a-6514-478a-84c5-d8ae30fb5362",
+      "name": "Radio Stad Harlingen",
+      "freq": 10620,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10620
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "37b70d81-7bd5-4a99-855b-dd9eb6af43df",
+      "name": "Radio Stad Montfoort",
+      "freq": 10680,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10680
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "6aa4471e-6393-4729-ae69-6cc0b5997bb2",
+      "name": "Radio Texel",
+      "freq": 10610,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10610
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "912e7a4a-c4b8-4760-986c-7ca99e0d64d6",
+      "name": "Radio Veldhoven",
+      "freq": 10770,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10770
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "46259631-45ea-473e-aae4-829f5dffffc6",
+      "name": "Radio Veronica",
+      "freq": 8820,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        8820,
+		8840,
+        8860,
+        8880,
+        8920,
+        9000,
+		9010,
+        9090,
+		9100,
+		9110,
+        9120,
+        9310,
+		9360,
+		9370,
+		9380,
+		9520,
+        9530,
+        9740,
+        9750,
+        9920,
+        9940,
+		9960
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "06da260f-6586-47ce-8485-13fbbfe81561",
+      "name": "Radio Voorst",
+      "freq": 10530,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10530
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "00272c06-e77e-4db1-ac56-fdfb988494d3",
+      "name": "Radio Weesp",
+      "freq": 10650,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10650
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "c395882c-f0be-4841-b761-125a574ae8fc",
+      "name": "Radio West",
+      "freq": 8800,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8800,
+        8900,
+        8930
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "02512a7c-e317-4f2c-b186-1967b18e1fc8",
+      "name": "Radio Westerkwartier",
+      "freq": 10530,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10530
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "b73b8d99-3161-404c-9949-70bdefe1eac6",
+      "name": "Radio Westerwolde",
+      "freq": 10650,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10650,
+        10660,
+        10700,
+        10730
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "707e6b86-82ee-4b09-8a83-113eba76cb88",
+      "name": "Radio4All",
+      "freq": 8880,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8880,
+        8890,
+        8970,
+        8980,
+        9030,
+        9040,
+        9050,
+        9070,
+        9080
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "5880665a-7bc2-4c7a-a2b3-ad3ea0b419a2",
+      "name": "RADIONL",
+      "freq": 8920,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        8920,
+        8930,
+        8940,
+        8990,
+        9010,
+        9030,
+        9050,
+        9240,
+        9310,
+        9330,
+        9340,
+        9350,
+        9370,
+        9400,
+        9410,
+        9420,
+        9430,
+        9450,
+        9490,
+        9550,
+        9570,
+        9600,
+        9630,
+        9660,
+        9670,
+        9690,
+        9700,
+        9710,
+        9850,
+        10420,
+        10440
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "d0990628-bde6-47dc-8831-cd982ef9af7d",
+      "name": "Razo (SALTO)",
+      "freq": 10520,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10520
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "316a9fee-a3e8-4a93-83f0-4f3677b30b6c",
+      "name": "Regio FM",
+      "freq": 9530,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9530,
+        10610,
+        10720,
+        10760
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "3e322ce8-95b6-4fef-8988-e6e7a564aa68",
+      "name": "Rick FM",
+      "freq": 10630,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10630
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "9f3325ed-cf47-4988-9ce7-99650baa030b",
+      "name": "RN7",
+      "freq": 10570,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10570,
+        10650,
+        10680,
+        10780
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2a1e4393-29a8-4ec0-a058-b7eee59847db",
+      "name": "RN7 NL",
+      "freq": 10540,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10540,
+        10700,
+        10740
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "4d310349-06aa-47de-82aa-4cfffe1dd69a",
+      "name": "Roulette FM",
+      "freq": 10660,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10660
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "9da36086-7d2b-4e98-bbaa-196bd3a83faa",
+      "name": "RPL FM",
+      "freq": 10710,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10710
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "f822bc3f-f5e0-4cda-99fa-f45760745212",
+      "name": "RTV Amstelveen",
+      "freq": 10720,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10720
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "18d6a5cf-4643-4e28-ab77-1198c218b30b",
+      "name": "RTV Arnhem",
+      "freq": 10590,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10590
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2f3204a1-17c6-4d4d-a794-2586555c5909",
+      "name": "RTV GO!",
+      "freq": 10580,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10580
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "bfe1021b-8103-4102-816f-c98c52df9f47",
+      "name": "RTV Hollands Midden",
+      "freq": 10740,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10740
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "03ff9faf-0c09-4654-bf7a-4d6ddecad464",
+      "name": "RTV IJsselmond",
+      "freq": 10640,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10640
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "47eda805-7dee-4f1e-a05f-2acd140405f1",
+      "name": "RTV Kanaal 30",
+      "freq": 10500,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10500,
+        10780
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2acfa088-8365-4d92-90e1-167a71e6ef1a",
+      "name": "RTV Katwijk Radio",
+      "freq": 10680,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10680
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "b75a4c9b-c785-4101-8303-100b213d9577",
+      "name": "RTV Krimpenerwaard",
+      "freq": 10660,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10660,
+        10770
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "e2d6ba7d-8b45-4cc6-b017-5e5c1019db4b",
+      "name": "RTV Meppel",
+      "freq": 9300,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9300
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "613baa99-439e-4304-ab2f-9b57ae8e6ce2",
+      "name": "RTV NOF",
+      "freq": 10730,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10730
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "7c6971ba-55ea-4724-9cc9-e5d3c25b9985",
+      "name": "RTV Rijnstreek",
+      "freq": 10600,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10600
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "78cf5820-a2d5-44ed-85ea-740ae386ba3b",
+      "name": "RTV Ronde Venen",
+      "freq": 10560,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10560
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "3d974111-d047-4811-b4f0-bdf0827d5fc5",
+      "name": "RTV Slogo",
+      "freq": 10560,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10560,
+        10590
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2583c8c6-1ee0-4e47-80fc-c01e0b7a8d52",
+      "name": "RTV SLOS",
+      "freq": 10540,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10540
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "59e42f0c-3957-447e-9706-9fc3d60ea42a",
+      "name": "RTV Stichtse Vecht",
+      "freq": 10530,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10530,
+        10600
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "9405172b-29f2-4fa5-8db4-46f24b5d8db7",
+      "name": "RTV Zwolle FM",
+      "freq": 10500,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10500
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "67adf38c-8c8e-43af-b856-716c01d50673",
+      "name": "RTV-Vis",
+      "freq": 10610,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10610
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "5fa4658c-ecba-439b-b4e9-183bbaa03cd8",
+      "name": "RTV1",
+      "freq": 10530,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10530,
+        10600,
+        10620,
+        10690
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "36009c75-5009-4af4-b7cb-3c42afd8a20e",
+      "name": "RTV9",
+      "freq": 9550,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9550
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "40fdb312-7032-445c-b97c-1fd0cfd1b102",
+      "name": "RTW FM",
+      "freq": 10580,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10580
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "25e1cb43-a258-4240-b084-d440aa1292fa",
+      "name": "Rucphen FM",
+      "freq": 10640,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10640
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "1664f32b-8b3c-485e-98da-db5edec0f0b4",
+      "name": "Salland 1",
+      "freq": 10570,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10570
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "61c13994-4910-465d-afed-d40cdb05d2f8",
+      "name": "Salland1",
+      "freq": 10510,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10510
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2b85df7a-5b61-4520-98fd-7682d874ba81",
+      "name": "Schagen FM",
+      "freq": 10770,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10770
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "3e398757-cf84-4386-b392-28e4b0f8900b",
+      "name": "Scheldemond FM",
+      "freq": 9650,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9650
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "50300188-b39c-4756-9e4c-9657cc687933",
+      "name": "Seaport FM",
+      "freq": 10780,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10780
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "f2c7c448-d65c-40e6-bd38-43d36b3cf251",
+      "name": "Simone FM",
+      "freq": 9130,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9130,
+        9290,
+        9300,
+        10170,
+        10360
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "b99fce97-3600-4715-b032-998d515d7ddd",
+      "name": "SIRIS Radio",
+      "freq": 10760,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10760
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "db2220a4-67c5-49dd-aea7-9dfc69a20ddc",
+      "name": "Sky Radio 101 FM",
+      "freq": 10100,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        10100,
+        10110,
+        10120,
+        10130,
+        10140,
+        10150,
+        10160,
+        10170,
+        10180,
+        10190
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "fe34fc47-2430-4ac0-9cb9-dda9454b0fdf",
+      "name": "SLAM!",
+      "freq": 9540,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9540,
+        9560,
+        9570,
+        9590,
+        10340
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "162c840b-080f-44e7-bd13-ae8b5a3f7508",
+      "name": "Sleutelstad FM",
+      "freq": 10750,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10750
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "28196720-f80f-4a0b-9b20-ef73a6ab0ded",
+      "name": "Slingeland FM",
+      "freq": 10500,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10500
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2e0f4299-8602-488a-b260-dbadc7fc20fb",
+      "name": "SLOG FM",
+      "freq": 10510,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10510
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "5676c6a5-db4e-48ef-a357-3d7a94b59a0b",
+      "name": "SLOS FM",
+      "freq": 10740,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10740
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "8bb02e33-a2b6-4fdc-9b1d-6afe47f7261e",
+      "name": "Slotstad Radio",
+      "freq": 10700,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10700
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "0702d4ab-a27a-4429-b0ab-f59f8dae95af",
+      "name": "Smelne FM",
+      "freq": 10650,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        10650
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "a63aa8af-6ba1-4f49-aef6-e040b1cf2dba",
+      "name": "SOL 2",
+      "freq": 10690,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10690
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "44e3434d-2e06-4bff-b8fa-21a29cfdd872",
+      "name": "SRC FM",
+      "freq": 9560,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9560,
+        10510,
+        10580,
+        10620
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "49964a73-9e61-481c-9e9b-eefba6560227",
+      "name": "Stads FM (SALTO)",
+      "freq": 10680,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10680
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2c7717eb-0a87-4ff5-9934-d3398ab44941",
+      "name": "Stadsradio Delft",
+      "freq": 10630,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10630
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "fba5ff66-f643-460d-8db1-6d90c0bc9caa",
+      "name": "Sternet FM",
+      "freq": 10730,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10730
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "53a822cc-8250-4f49-97d4-cea49b2e59a4",
+      "name": "Streekomroep START",
+      "freq": 9910,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9910
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "7f4f154e-c840-410b-b0e1-08f25e67c6fb",
+      "name": "Studio Alphen",
+      "freq": 9000,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9000,
+        10510,
+        10650
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "5f8add09-8714-441b-b247-d6944b74778b",
+      "name": "Studio Kaag en Braassem",
+      "freq": 10500,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10500
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "f6ee822c-990b-48f7-a683-03c63a9ef81c",
+      "name": "Studio Rheden",
+      "freq": 10690,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10690,
+        10720
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "d46d63d3-0ef3-4225-bebb-5f6f12c3ebd4",
+      "name": "Studio-DMN",
+      "freq": 10610,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10610
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "9e1afd29-d914-4342-94c2-6af305a3763f",
+      "name": "Studio040",
+      "freq": 10550,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10550,
+        10590,
+        10660
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "caf73373-cedc-41af-af7a-80cfbe5f3839",
+      "name": "Tukker FM",
+      "freq": 8850,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        8850,
+        8870,
+        8910,
+        9000,
+        9720
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "36a6fa16-afe0-43ae-b9ae-8cac971051ff",
+      "name": "Twente FM",
+      "freq": 9390,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9390,
+        10560,
+        10620,
+        10650,
+        10740
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "53f7c62a-4aca-490d-be2b-0b93deea4f72",
+      "name": "Tynaarlo Lokaal",
+      "freq": 10590,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10590,
+        10740
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "852221ad-f3d1-4077-bc4b-ea4c4ffe1839",
+      "name": "Unity FM",
+      "freq": 10570,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10570
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "9300cd75-916b-4a82-9672-c1a0a7b614e3",
+      "name": "Unity NL",
+      "freq": 10610,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10610
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "17ef2757-1de4-4e2d-8be1-736b58f4adff",
+      "name": "Urk FM",
+      "freq": 10700,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10700
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "968d889d-3988-407d-ba17-d98445e5f7df",
+      "name": "Vechtdal FM",
+      "freq": 10590,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10590,
+        10630
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "f531ba26-92b5-4eac-bdb3-a359cc5b244c",
+      "name": "Vechtdal NL",
+      "freq": 10560,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10560
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "e9ff76cd-2aaa-4a4c-b53e-80afa16d3c5a",
+      "name": "Veluwe FM",
+      "freq": 10500,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10500,
+        10610,
+        10770
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "22994136-6b39-43af-b80f-4cec647d1174",
+      "name": "Veluwezoom FM",
+      "freq": 10750,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10750
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "bf577410-d7d8-4274-9d83-d820cb007384",
+      "name": "Vibe Radio",
+      "freq": 8960,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8960,
+        9330
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "7c8e9fc6-a181-4170-9a13-f3f408f6f2c6",
+      "name": "VLOH Radio",
+      "freq": 9600,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9600
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "390d9fd2-c54b-47d7-81b7-2b4fe61cf9f0",
+      "name": "VOS FM",
+      "freq": 10740,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10740
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2be2b961-ea03-4524-a107-65fffef9a78c",
+      "name": "Waterstad FM",
+      "freq": 9280,
+      "freqRangeId": 0,
+      "favorite": true,
+      "freqlist": [
+        9280,
+        9320,
+        9350,
+        10180
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "be476bb6-6aff-4e77-af42-c1aff99bd440",
+      "name": "WEEFF",
+      "freq": 10580,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10580,
+        10710
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "513ac0cc-54b1-4e33-8d6f-ba9d62adf5c4",
+      "name": "Weeff Radio",
+      "freq": 10390,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10390
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "433c5438-aff6-4f71-a290-ffa3cfb154af",
+      "name": "Weert FM",
+      "freq": 9700,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9700,
+        10750
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "3486842a-eb23-4f44-85aa-b698a66ac5aa",
+      "name": "Wereld FM",
+      "freq": 9940,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9940
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "70dcc530-e1de-4a36-a7b2-a2be5335d17f",
+      "name": "WFM96",
+      "freq": 9600,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9600
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "0e6d7005-0c11-434c-95f9-d350efa1e82f",
+      "name": "Wild FM Hitradio",
+      "freq": 9630,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9630,
+        9730,
+        9740
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "e52c0e72-ec92-43bc-bdb4-f269369e9bbe",
+      "name": "Wild Hitradio",
+      "freq": 9360,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9360
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "cc2178b9-8c49-44a6-9b81-13501e8dee38",
+      "name": "WOS",
+      "freq": 8760,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        8760
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "1bcc479b-c9b3-48d6-9ca9-89b46951497c",
+      "name": "Zaan Radio",
+      "freq": 10710,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10710
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "cede83c0-ec0e-4014-a0c4-d2db54b362c8",
+      "name": "ZFM",
+      "freq": 9620,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        9620,
+        10690
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "86243830-2b98-4fc8-86be-d7dec53002e4",
+      "name": "ZO!34",
+      "freq": 10540,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10540,
+        10630,
+        10760
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "3f40e8dd-ad53-4e00-a5ed-434e06c96616",
+      "name": "Zuidwest FM",
+      "freq": 10510,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10510,
+        10580,
+        10710
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "36e477da-67ff-4179-9aec-03335ce0234f",
+      "name": "Zwartewater FM",
+      "freq": 10730,
+      "freqRangeId": 0,
+      "favorite": false,
+      "freqlist": [
+        10730
+      ]
+    }
+  ],
+  "AM": [
+    {
+      "sid": 0,
+      "uuid": "6debaff3-cc9c-4408-94cc-5d700b668c57",
+      "name": "",
+      "freq": 648,
+      "freqRangeId": 2,
+      "favorite": false,
+      "freqlist": [
+        -1,
+        -2,
+        -3,
+        -4,
+        -5,
+        -6,
+        -7,
+        -8,
+        -9
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "aa145616-1d77-44d3-b185-f1d9c2fa777d",
+      "name": "Radio Nostalgie",
+      "freq": 675,
+      "freqRangeId": 2,
+      "favorite": false,
+      "freqlist": [
+        -1,
+        -2,
+        -3,
+        -4,
+        -5,
+        -6,
+        -7,
+        -8,
+        -9
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "2d814962-bdb2-4e5d-ab66-5f243b5804c2",
+      "name": "BBC Radio 5 Live",
+      "freq": 693,
+      "freqRangeId": 2,
+      "favorite": false,
+      "freqlist": [
+        693,
+        -2,
+        -3,
+        -4,
+        -5,
+        -6,
+        -7,
+        -8,
+        -9
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "bfe1f1f9-0ebc-4ede-b564-93d92340f082",
+      "name": "",
+      "freq": 747,
+      "freqRangeId": 2,
+      "favorite": false,
+      "freqlist": [
+        -1,
+        -2,
+        -3,
+        -4,
+        -5,
+        -6,
+        -7,
+        -8,
+        -9
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "69656562-d358-4100-bf5a-e4adc278ae96",
+      "name": "",
+      "freq": 909,
+      "freqRangeId": 2,
+      "favorite": false,
+      "freqlist": [
+        -1,
+        -2,
+        -3,
+        -4,
+        -5,
+        -6,
+        -7,
+        -8,
+        -9
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "6825c014-ff51-4aa1-bdaa-669b6d8407e0",
+      "name": "",
+      "freq": 1008,
+      "freqRangeId": 2,
+      "favorite": false,
+      "freqlist": [
+        -1,
+        -2,
+        -3,
+        -4,
+        -5,
+        -6,
+        -7,
+        -8,
+        -9
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "f67a141c-e8b9-41e6-a11e-13293c6afa44",
+      "name": "",
+      "freq": 1053,
+      "freqRangeId": 2,
+      "favorite": false,
+      "freqlist": [
+        -1,
+        -2,
+        -3,
+        -4,
+        -5,
+        -6,
+        -7,
+        -8,
+        -9
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "70066f35-c891-4856-a149-7a00395858ec",
+      "name": "",
+      "freq": 1089,
+      "freqRangeId": 2,
+      "favorite": false,
+      "freqlist": [
+        -1,
+        -2,
+        -3,
+        -4,
+        -5,
+        -6,
+        -7,
+        -8,
+        -9
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "b6058a97-0615-4d3a-ac3f-032ae0dd36aa",
+      "name": "",
+      "freq": 1134,
+      "freqRangeId": 2,
+      "favorite": false,
+      "freqlist": [
+        -1,
+        -2,
+        -3,
+        -4,
+        -5,
+        -6,
+        -7,
+        -8,
+        -9
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "4d159702-c7ee-40a9-bd40-cdf5eea52de2",
+      "name": "",
+      "freq": 1287,
+      "freqRangeId": 2,
+      "favorite": false,
+      "freqlist": [
+        -1,
+        -2,
+        -3,
+        -4,
+        -5,
+        -6,
+        -7,
+        -8,
+        -9
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "a18f97b2-fd78-4509-9da3-4ef7052f0eaf",
+      "name": "Radio SeaBreeze",
+      "freq": 1395,
+      "freqRangeId": 2,
+      "favorite": false,
+      "freqlist": [
+        1395,
+        -2,
+        -3,
+        -4,
+        -5,
+        -6,
+        -7,
+        -8,
+        -9
+      ]
+    },
+    {
+      "sid": 0,
+      "uuid": "59e12e63-baaa-4ec3-9e1e-553987196217",
+      "name": "",
+      "freq": 1602,
+      "freqRangeId": 2,
+      "favorite": false,
+      "freqlist": [
+        -1,
+        -2,
+        -3,
+        -4,
+        -5,
+        -6,
+        -7,
+        -8,
+        -9
+      ]
+    }
+  ]
+}
